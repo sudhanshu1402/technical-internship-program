@@ -1,9 +1,26 @@
-# TIP - Technical Internship Program
+# 🎓 Technical Internship Program
 
-WEB SCRAPING USING PYTHON
+Welcome to the archive of my **Technical Internship Program**. This repository contains projects, assignments, and case studies completed during my internship, reflecting my growth and practical application of technical skills.
 
-This repository contains all my project work done during the internship with HNR Tech Private Limited as Python Developer Intern from May 05, 2021 to July 05, 2021. The Title of the project is Web Scraping using Python with key objectives as to develop an application that uses the intelligent agent(web bot) concept to collect a specific piece of information from a particular website and represent this information in required data format.
+## 📂 Modules & Projects
 
-Web scraping is an automated process that involves some amount of data parsing in order to obtain only the required information. The enhancements for the project are Marketing, Customer Behaviour &amp; Buying Trends, E-commerce &amp; Price Intelligence, Equity Research Market and Data Scraping.
+| Directory | Description |
+| :--- | :--- |
+| **🛍️ RETAIL_WEBSITES** | Development and analysis of retail e-commerce platforms. |
+| **🚗 TYRES** | Specialized project focusing on the automotive/tyre industry domain. |
+| **🌐 EXTRA_WEBSITES** | Additional web development projects and experiments. |
 
-The softwares used for thr project are Python, Pycharm, Sublime text. The libraries used for this project are Scrapy, Spiders, Beautiful Soup, Selenium, time, CSV, XML. The Database was stored in Mongo DB, SQL, CSV, Excel. The major scraping methods used for the project were Manual scraping, HTML Parsing, DOM Parsing, Xpath Parsing,
+## 🚀 Key Learning Outcomes
+
+- **Web Development:** Hands-on experience with building responsive websites.
+- **Industry Insight:** Understanding of retail and automotive sectors.
+- **Professional workflow:** Adhering to coding standards and project deadlines.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** (Add Backend Tech if applicable, e.g., PHP, Node.js)
+- **Tools:** Git, IDEs
+
+---
+*Maintained by Sudhanshu Singh*
